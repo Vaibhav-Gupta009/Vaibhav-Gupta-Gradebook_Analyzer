@@ -1,3 +1,12 @@
 # Vaibhav-Gupta-Gradebook_Analyzer
 Python Assignment 2
 This program, **Gradebook Analyzer**, is a beginner-friendly Python application designed to help users manage and analyze student marks efficiently. The script enables users to enter student names and marks, automatically calculates statistical data such as average, median, highest, and lowest scores, and assigns grades based on predefined criteria. It further provides a clear breakdown of grade distribution, highlights pass and fail lists using list comprehensions, and displays results in a formatted table for easy review. The program operates through a simple, menu-driven interface, allowing users to run analyses multiple times or exit as needed.
+After testing with 5 students,the result came out as:
+
+Name      Marks   Grade
+--------------------------
+priyanshu 69      D
+pushkar   90      A
+vaibhav   32      F
+om        100     A
+richa     26      F
